@@ -126,7 +126,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,te
 .hero-img{position:absolute;top:0;left:0;height:100%;width:132%;object-fit:cover;object-position:60% 50%;transition:transform 2.2s var(--ease),opacity .6s var(--ease)}
 .hero-grad{position:absolute;inset:0;background:linear-gradient(to right,rgba(10,26,26,.72) 0%,rgba(10,26,26,.36) 40%,rgba(10,26,26,0) 72%)}
 .hero-text{position:relative;align-self:center;margin-right:auto;padding:48px 48px 48px max(24px,calc((100vw - 1280px)/2 + 24px));display:flex;flex-direction:column;gap:12px;max-width:100%}
-.hero-text h1{font-size:96px;line-height:100px;letter-spacing:-.03em;color:#fff;max-width:840px}
+.hero-text h1{font-size:96px;line-height:100px;letter-spacing:-.02em;color:#fff;max-width:840px}
 .hero-text .lead{font:400 20px/28px var(--font-sans);letter-spacing:-.01em;color:#fff;max-width:520px}
 .hero-cta{display:flex;gap:24px;flex-wrap:wrap;margin-top:40px;margin-bottom:12px}
 
